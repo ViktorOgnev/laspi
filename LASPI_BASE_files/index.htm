@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- saved from url=(0063)http://online.laspi.com/index.php?module=main&action=checkOrder -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+
+<title>Онлайн-бронирование Ласпи. Проверка заявки.</title>
+
+<link href="check_order.css" rel="stylesheet" type="text/css">
+	
+<!--[if IE]>
+<link rel="stylesheet" href="styles/ie.css" type="text/css" media="screen" />
+<![endif]-->
+
+<script async="" src="loader.js"></script><script type="text/javascript" src="jquery.js"></script><style type="text/css"></style><style type="text/css"></style>
+<script type="text/javascript" src="jquery.form.js"></script>
+
+</head>
+
+<body>
+
+<div class="content">
+	<div id="id-check-order">
+		<form action="http://online.laspi.com/index.php?module=ajaxm&action=getCheckOrder" id="id-form-check-order">
+			<table border="0" cellpadding="5" width="100%">
+				<tbody><tr>
+					<td align="left" style="padding-left:5px;">
+						<label id="number-order-label">Номер заявки: </label>
+					</td>
+					<td align="right" style="padding-right:5px;">
+						<input type="text" id="id-number-order" name="numberOrder" size="8" style="margin-right:10px;" data-ovi-hasaddedvoiceinputfunction="true" x-webkit-speech="" speech="" lang="en-US">
+						<input type="image" title="Проверить" src="icon_search.png" style="vertical-align: text-top;margin-right:10px;">
+					</td>
+				</tr>
+			</tbody></table>
+		</form>
+		<p style="border-bottom: 1px solid #ccc;height: 18px;text-align:center;margin-top:2px;"><span class="r-field" id="r-base-name"></span></p>
+		<div id="check-fields">
+			<p><span class="title-hidden">Дата заезда:</span> <span class="r-field" id="r-date-from"></span></p>
+			<p><span class="title-hidden">Состояние заявки:</span> <span class="r-field" id="r-state"></span> <span class="r-field" id="r-approved"></span> <span class="r-field" id="r-paid"></span></p>
+		</div>
+	</div>
+</div>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#id-form-check-order').submit(function() { 
+				$('.r-field').text('').removeClass('invalid');
+				$('.title-hidden').hide();
+				$(this).ajaxSubmit({
+					dataType: 'json',
+					success: function(responseText, statusText, xhr, $form){
+						if(responseText.valid){
+							$('.title-hidden').show();
+							$('#r-base-name').text(responseText.name);
+							$('#r-date-from').text(responseText.date_from);
+							if(responseText.active){
+								$('#r-state').text('действующая,');
+								if(responseText.closed){
+									$('#r-state').text('закрыта,');
+								}								
+							}
+							else {
+								$('#r-state').addClass('invalid').text('аннулирована,');
+							}
+							if(responseText.approved){
+								$('#r-approved').text('подтверждена,');
+							}
+							else {
+								$('#r-approved').addClass('invalid').text('не подтверждена,');
+							}
+							if(responseText.paid){
+								$('#r-paid').text('оплачена');
+							}
+							else {
+								$('#r-paid').addClass('invalid').text('неоплачена');
+							}
+						}
+						else {
+							$('#r-base-name').addClass('invalid').text('Несуществующий номер!');
+						}
+					}
+				}); 
+				return false; 
+			}); 			
+		});
+	</script>
+
+</body></html>
