@@ -1345,8 +1345,8 @@ div.analog h2 {
 }
 
 .online, .online a {
-  color: #fff ! important;
-  font-weight: bold ! important;
+/*   color: #fff ! important; */
+/*   font-weight: bold ! important; */
   background-color: #F8C300;
 }  
 
@@ -1357,12 +1357,12 @@ div.analog h2 {
 .avia {
     background-image:url(/img/pics/avia.gif);
 }
-.avia, .avia a {
+/* .avia, .avia a {
   color: #fff ! important;
   font-weight: bold ! important;
   background-color: #D877FF;
 }  
-
+ */
 .avia a:hover {
   color: #FDDD00!important;
 }  
@@ -1371,11 +1371,11 @@ div.analog h2 {
    background-image:url(/img/pics/search2.png);
 }
 
-.stour, .stour a {
+/* .stour, .stour a {
   color: #3d107b ! important;
   font-weight: bold ! important;
   background-color: RGB(245, 159, 188);
-}  
+}   */
 
 .stour a:hover {
   color: #5c5c93 !important;
@@ -1399,12 +1399,12 @@ div.analog h2 {
   background-image:url(/img/pics/insurance.jpg);
 }
 
-.insurance, .insurance a {
+/* .insurance, .insurance a {
   color: #fdc689 ! important;
   font-weight: bold ! important;
   background-color: RGB(255, 127, 39);
 }  
-
+ */
 .insurance a:hover {
   color: #fff568 !important;
 }
@@ -1416,14 +1416,14 @@ div.analog h2 {
     background-image:url(/img/pics/events_calendar.png);    
 }
 
-.events_calendar a {
-    color: grey !important;
+.events_calendar a { */
+/*     color: grey !important; */
     font-weight: bold !important;
 }
 
-.events_calendar a:hover {
+/*.events_calendar a:hover {
     color: orange !important;
-}
+}*/
 
 span.video {
 	background-color: #bff;

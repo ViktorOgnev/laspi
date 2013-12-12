@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90ddba88-c664-4cb8-b91f-4a116457a74a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/laspi.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/-PAXP-deijE.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/-PAXP-deijE.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1076602_100006949778841_107365513_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1076602_100006949778841_107365513_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1085828_100001990819724_626621386_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1085828_100001990819724_626621386_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1086407_100002132358498_869338327_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1086407_100002132358498_869338327_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1086809_100005297858608_1465325293_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1086809_100005297858608_1465325293_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1117316_100005953770344_525585957_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1117316_100005953770344_525585957_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1119077_100001727530986_189575651_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1119077_100001727530986_189575651_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1425728_249725315182179_1213721136_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1425728_249725315182179_1213721136_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1441241_249245075230203_363981479_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1441241_249245075230203_363981479_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1456790_249195311901846_1805350787_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1456790_249195311901846_1805350787_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1458415_249971315157579_1116110027_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1458415_249971315157579_1116110027_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1461192_249528021868575_1168700318_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1461192_249528021868575_1168700318_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1461601_249710821850295_273764901_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1461601_249710821850295_273764901_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1461824_249429995211711_157188116_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1461824_249429995211711_157188116_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1464045_249149278573116_1670816979_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1464045_249149278573116_1670816979_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1465285_249484231872954_499464612_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1465285_249484231872954_499464612_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1466244_249167401904637_1977641505_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1466244_249167401904637_1977641505_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1469767_249685698519474_1350693477_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1469767_249685698519474_1350693477_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1470178_249451955209515_1654605828_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1470178_249451955209515_1654605828_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1472014_249739971847380_104006669_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1472014_249739971847380_104006669_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1472040_249291928558851_1269088257_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1472040_249291928558851_1269088257_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1476249_249222931899084_967375549_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1476249_249222931899084_967375549_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1480706_249179751903402_1203912526_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1480706_249179751903402_1203912526_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/1483355_249184411902936_427229815_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/1483355_249184411902936_427229815_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/173665_100001173164629_7991050_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/173665_100001173164629_7991050_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/2-left.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/2-left.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/2-middle.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/2-middle.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/252231_1002029915278_1941483569_s.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/252231_1002029915278_1941483569_s.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/273753_100002973290956_915492479_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/273753_100002973290956_915492479_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/273800_100006787749757_2109157078_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/273800_100006787749757_2109157078_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/2jljaKFgqdQ.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/2jljaKFgqdQ.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/3-left.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/3-left.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/3-middle.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/3-middle.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/3-right.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/3-right.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/369560_100004572487508_158517807_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/369560_100004572487508_158517807_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/370345_100003090589673_1952243920_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/370345_100003090589673_1952243920_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/372159_100004154503753_2056215911_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/372159_100004154503753_2056215911_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/373456_143301462491232_234715604_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/373456_143301462491232_234715604_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/4-left.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/4-left.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/4-middle.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/4-middle.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/4-right.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/4-right.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/4WflBZ55FbQ.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/4WflBZ55FbQ.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/565135_100001916038309_938400066_q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/565135_100001916038309_938400066_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/577563_249803601841017_651974228_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/577563_249803601841017_651974228_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/600249_1002029915098_1903163647_s.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/600249_1002029915098_1903163647_s.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/6ndldrsD8Os.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/6ndldrsD8Os.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/9.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/9.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/936536_249505185204192_1674280826_n.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/936536_249505185204192_1674280826_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/9NLAHEwYxmw.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/9NLAHEwYxmw.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/A-OXmaM8Sn0.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/A-OXmaM8Sn0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/GsNJNwuI-UM.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/GsNJNwuI-UM.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/IkhLFoS2MLM.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/IkhLFoS2MLM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/LuHSs_2dzHw.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/LuHSs_2dzHw.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/NgX1_JOun5Q.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/NgX1_JOun5Q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/NzPbwOQ6h0M.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/NzPbwOQ6h0M.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/PuNwBU0I9yo.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/PuNwBU0I9yo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/VtX2_jX8XcY.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/VtX2_jX8XcY.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/aJJVyDEyyqY.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/aJJVyDEyyqY.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/about-work-logo.JPG" afterPath="$PROJECT_DIR$/LASPI_BASE_files/about-work-logo.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/agk.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/agk.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/ajax-loader-new.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/ajax-loader-new.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/ask.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/ask.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/blank.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/chel01_b.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/chel01_b.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/chel01_l.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/chel01_l.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/chel01_r.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/chel01_r.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/chel02_b.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/chel02_b.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/chel02_l.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/chel02_l.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/chel02_r.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/chel02_r.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/community_50.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/community_50.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/darr.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/darr.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/en.png" afterPath="$PROJECT_DIR$/LASPI_BASE_files/en.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/fIblivSUlFM.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/fIblivSUlFM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/facebook.png" afterPath="$PROJECT_DIR$/LASPI_BASE_files/facebook.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/fire.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/fire.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/icon_search.png" afterPath="$PROJECT_DIR$/LASPI_BASE_files/icon_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/item_actions_unsel.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/item_actions_unsel.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/item_buy_unsel.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/item_buy_unsel.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/item_onas_unsel.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/item_onas_unsel.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/item_turagent_unsel.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/item_turagent_unsel.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/item_turistam_unsel.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/item_turistam_unsel.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/item_uslugi_unsel.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/item_uslugi_unsel.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/left-noborde.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/left-noborde.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/left.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/left.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/lock2.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/lock2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(1).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(1).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(10).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(10).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(11).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(11).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(12).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(12).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(13).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(13).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(14).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(14).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(15).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(15).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(16).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(16).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(17).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(17).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(18).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(18).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(19).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(19).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(2).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(2).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(20).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(20).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(21).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(21).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(22).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(22).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(23).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(23).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(24).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(24).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(25).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(25).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(26).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(26).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(27).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(27).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(28).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(28).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(29).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(29).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(3).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(3).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(30).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(30).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(31).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(31).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(32).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(32).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(33).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(33).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(34).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(34).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(35).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(35).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(36).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(36).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(4).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(4).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(5).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(5).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(6).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(6).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(7).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(7).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(8).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(8).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(9).jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100(9).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/main_w100x100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/middle.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/middle.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/mode-tourist.png" afterPath="$PROJECT_DIR$/LASPI_BASE_files/mode-tourist.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/new.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/new.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/noplace.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/noplace.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/ny.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/ny.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/p2012.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/p2012.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/planetakrim-banner.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/planetakrim-banner.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/qXfp4B4IEsM.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/qXfp4B4IEsM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/right-noborder.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/right-noborder.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/rss.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/rss.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/sLgeq8fn06o.jpg" afterPath="$PROJECT_DIR$/LASPI_BASE_files/sLgeq8fn06o.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/skis.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/skis.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/space.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/space.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/spacer.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/spacer.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/top_search.png" afterPath="$PROJECT_DIR$/LASPI_BASE_files/top_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/twitter.png" afterPath="$PROJECT_DIR$/LASPI_BASE_files/twitter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/uarr.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/uarr.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/upload.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/upload.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/video.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/video.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/vkontakte.png" afterPath="$PROJECT_DIR$/LASPI_BASE_files/vkontakte.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/you-big1.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/you-big1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/zuo-big1.gif" afterPath="$PROJECT_DIR$/LASPI_BASE_files/zuo-big1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE.htm" afterPath="$PROJECT_DIR$/LASPI_BASE.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/al_community.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/al_community.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/all.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/all.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/check_order.css" afterPath="$PROJECT_DIR$/LASPI_BASE_files/check_order.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/common.css" afterPath="$PROJECT_DIR$/LASPI_BASE_files/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/compat.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/compat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/conversion.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/conversion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/datepicker.css" afterPath="$PROJECT_DIR$/LASPI_BASE_files/datepicker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/datepicker.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/datepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/dc.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/dc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/email.cloak.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/email.cloak.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/fb_moved.css" afterPath="$PROJECT_DIR$/LASPI_BASE_files/fb_moved.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/head_menu_new.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/head_menu_new.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/index.htm" afterPath="$PROJECT_DIR$/LASPI_BASE_files/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery-1.6.2.min.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery-1.6.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery-ui-1.8.16.custom.css" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery-ui-1.8.16.custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery-ui-1.8.16.custom.min.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery-ui-1.8.16.custom.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery.anythingslider.fx.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery.anythingslider.fx.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery.anythingslider.min.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery.anythingslider.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery.corner.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery.corner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery.easing.1.2.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery.easing.1.2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery.form.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery.form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery.pngFix.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery.pngFix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery.slidelaspibox.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery.slidelaspibox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery.slidelaspibox2.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery.slidelaspibox2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/jquery.tipsy.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/jquery.tipsy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/lang3_0.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/lang3_0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/laspiga.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/laspiga.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/like_box(1).htm" afterPath="$PROJECT_DIR$/LASPI_BASE_files/like_box(1).htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/like_box.htm" afterPath="$PROJECT_DIR$/LASPI_BASE_files/like_box.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/lite.css" afterPath="$PROJECT_DIR$/LASPI_BASE_files/lite.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/lite.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/lite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/loader(1).js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/loader(1).js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/loader.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/loader_nav14426_3.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/loader_nav14426_3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/m40E9eoS2x7.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/m40E9eoS2x7.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/openapi.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/openapi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/region.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/region.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/saved_resource.htm" afterPath="$PROJECT_DIR$/LASPI_BASE_files/saved_resource.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/searchtour.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/searchtour.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/showphoto.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/showphoto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/stcode.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/stcode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/steffie.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/steffie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/steffrect.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/steffrect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/steffslip.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/steffslip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/stmenu.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/stmenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/style.css" afterPath="$PROJECT_DIR$/LASPI_BASE_files/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/swfobject.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/swfobject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/theme-laspi.css" afterPath="$PROJECT_DIR$/LASPI_BASE_files/theme-laspi.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/tipsy.css" afterPath="$PROJECT_DIR$/LASPI_BASE_files/tipsy.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/top100.jcn" afterPath="$PROJECT_DIR$/LASPI_BASE_files/top100.jcn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/watch.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/watch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/widget_community.css" afterPath="$PROJECT_DIR$/LASPI_BASE_files/widget_community.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/widget_community.htm" afterPath="$PROJECT_DIR$/LASPI_BASE_files/widget_community.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/xd_arbiter(1).htm" afterPath="$PROJECT_DIR$/LASPI_BASE_files/xd_arbiter(1).htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/xd_arbiter.htm" afterPath="$PROJECT_DIR$/LASPI_BASE_files/xd_arbiter.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LASPI_BASE_files/xdm.js" afterPath="$PROJECT_DIR$/LASPI_BASE_files/xdm.js" />
+    </list>
+    <ignored path="laspi.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="90ddba88-c664-4cb8-b91f-4a116457a74a" time="1386243218184" ignored="false" />
+    <file path="/DummyFile.xpath" changelist="90ddba88-c664-4cb8-b91f-4a116457a74a" time="1385933615573" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="laspi" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="LASPI_BASE.htm" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LASPI_BASE.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2694" column="96" selection-start="242034" selection-end="242034" vertical-scroll-proportion="52.884525">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/LASPI_BASE.htm" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1928" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laspi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laspi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laspi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laspi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.LASPI_BASE.htm">
+    <configuration default="false" name="LASPI_BASE.htm" type="JavascriptDebugSession" factoryName="Local" singleton="true" temporary="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" value="file:///C:/laspi/LASPI_BASE.htm" />
+      </JSDebuggerConfigurationSettings>
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.LASPI_BASE.htm" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.LASPI_BASE.htm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90ddba88-c664-4cb8-b91f-4a116457a74a" name="Default" comment="" />
+      <created>1385933216192</created>
+      <updated>1385933216192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1928" height="1088" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24630801" sideWeight="0.99786097" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39954853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LASPI_BASE.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2962" column="15" selection-start="216822" selection-end="216822" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LASPI_BASE.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="16" selection-start="3633" selection-end="3633" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LASPI_BASE.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2694" column="96" selection-start="242034" selection-end="242034" vertical-scroll-proportion="52.884525">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

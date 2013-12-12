@@ -1,0 +1,54 @@
+.alloc {
+ color: #330099;
+ font-weight:bold;
+ font-style:italic;
+}
+.note {
+margin:0px;
+font-style:italic;
+}
+.red {
+  color: #f00;
+ }
+h2.title {
+    color:#FF6600;
+	font-size:18pt;
+}
+tr.odd {
+  background-color: #FFFFCC;
+}
+
+tr.even {
+  background-color: #E0E0E0;
+}
+th {
+  text-align: left;
+  padding-right: 1em;
+  background-color: #005198;
+  color: #EAEAEA;  
+  border: 1px solid #ccc;
+  /*border-bottom: 3px solid #ccc;*/
+}
+.fio {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	color: #f60;
+	margin: 0px;
+	padding: 0px;
+	font-size: 12pt;
+	font-weight: bold;
+}
+.position {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: italic;
+	margin: 0px;
+	padding: 0px;
+}
+.desc {
+	margin-left: 2em;
+}
+
+.marker {
+	background-color: #FFFF66;
+}
