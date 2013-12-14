@@ -107,8 +107,8 @@ div.sanat-direct *, div.display-mode * {
 }
 .logo-block img {
     
-    max-width:250; 
-    height: auto;
+    max-height:70px; 
+    width: auto;
 }
 
 
@@ -130,6 +130,7 @@ div.sanat-direct *, div.display-mode * {
 .topline-menu li {
     
     padding: 0;
+    min-height: 40px;
     
 }
 
@@ -138,7 +139,7 @@ div.sanat-direct *, div.display-mode * {
     margin: 0;
     padding: 0 20px 0 20px;
     min-width: 140px;
-    padding-bottom: 3px;
+    
 }
 .topItem {
     min-height: inherit;
@@ -156,7 +157,7 @@ div.sanat-direct *, div.display-mode * {
     font-weight: 600; 
     color: #3498db;
     margin-top: 10px;
-    margin-bottom: 3px;
+    margin-bottom: px;
     padding: 0 auto;
     height: inherit;
         
@@ -215,13 +216,13 @@ div.sanat-direct *, div.display-mode * {
     
 #topHeader div.topSection,
 #topHeader div.selSection {
-    height: 29px;
-    padding: 0 22px 0 2 2px;
+    
+    padding: 0 22px 0 22px;
 }
 
 #topHeader div.topItem {
-    height: 24px;
-    padding: 5px 17px 0 17px;
+    
+    padding: 0px 17px 0 17px;
 }
 
 #topHeader div.topSection:hover,
