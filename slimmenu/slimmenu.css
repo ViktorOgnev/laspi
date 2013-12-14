@@ -199,14 +199,14 @@ ul.slimmenu:last-child{
     border: 0 0 2px 0 #AAA;
 }
 
-.slimmenu li ul li a.ar,a.ar:link, a.al, a.al:link {
+/* .slimmenu li ul li a.ar,a.ar:link, a.al, a.al:link {
   
   
   
   font-weight:normal;
   color: #FFF2C2;
   padding-right:28px;
-}
+} */
 .slimmenu li ul li a.ar:hover, a.al:hover {
   color: #292000;
   
